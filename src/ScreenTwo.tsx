@@ -13,7 +13,7 @@ import Screen from "./Screen";
 export default function ScreenTwo() {
   return (
     <Screen>
-      <div className="absolute w-full h-[330px] bg-gradient-to-r from-cyan-800 to-cyan-950"></div>
+      <div className="absolute w-full h-[330px] bg-gradient-to-b from-cyan-800 to-cyan-950"></div>
       <div className="flex flex-col z-50">
         <div className="flex flex-row justify-between items-center p-4 text-white">
           <div className="text-2xl">
